@@ -66,14 +66,14 @@ Current Status: Definitely not hiding from QA
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI-My%20Senior%20Engineer-FF3D57?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stack_Overflow-My%20Stand%20User-F48024?style=flat-square&logo=stackoverflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stack_Overflow-My%20Emergency%20Hotline-F48024?style=flat-square&logo=stackoverflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Documentation-Ignored-555555?style=flat-square" />
 </p>
 
 ## 📊 EVIDENCE OF MY EXISTENCE
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NEFER&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF3D57&icon_color=FF3D57&text_color=FFE9EE&include_all_commits=true&count_private=true" />
+  <img src="https://github-stats-extended.vercel.app/api?username=NEFER&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF3D57&icon_color=FF3D57&text_color=FFE9EE&include_all_commits=true" alt="NEFER GitHub Stats" />
 </p>
 
 <p align="center">

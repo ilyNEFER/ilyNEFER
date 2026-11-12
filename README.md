@@ -40,10 +40,6 @@ Current Status: Definitely not hiding from QA
 - I do not fix bugs. I remove the timeline in which they were discovered.
 - My commits have no explanation. Even I cannot reach the truth.
 
-<p align="center">
-  <img src="https://i.makeagif.com/media/6-15-2019/3_77fa.gif" width="300" alt="Diavolo King Crimson GIF" />
-</p>
-
 **Development ritual:**
 
 1. Open the project.
@@ -61,10 +57,6 @@ Current Status: Definitely not hiding from QA
 | **GIT RESET --HARD** | Erases evidence and possibly the entire project. |
 | **BLIND PUSH** | Deploys directly to main. QA is a state of mind. |
 | **KING CRIMSON: HOTFIX** | Deletes the symptom and calls it a solution. |
-
-<p align="center">
-  <img src="https://media1.tenor.com/m/Pc_c7oFBTRYAAAAd/diavolo-jojo.gif" width="270" alt="Diavolo JoJo GIF" />
-</p>
 
 ## 🛠️ TECHNOLOGIES I HAVE SUMMONED AT LEAST ONCE
 

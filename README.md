@@ -1,113 +1,97 @@
+<!-- NEFER / DIAVOLO — KING CRIMSON -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,100:7137B8&height=190&section=header&text=SPECIAL%20GRADE%20VIBECODER&fontSize=35&fontColor=E8D5FF&animation=twinkling&desc=the%20delusion%20is%20real&descAlignY=65&descSize=15" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:13070B,55:6F142C,100:FF3D57&height=210&section=header&text=NEFER&fontSize=76&fontColor=FFE9EE&animation=fadeIn&fontAlignY=36&desc=KING%20CRIMSON%20%7C%20I%20HAVE%20ALREADY%20SKIPPED%20THE%20CODE%20REVIEW.&descAlignY=62&descSize=14" alt="NEFER KING CRIMSON animated banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=B794F4&center=true&vCenter=true&width=650&lines=THE+HONORED+ONE+(according+to+myself);AI+writes+the+code%2C+I+provide+moral+support;Domain+Expansion%3A+Unlimited+Stack+Overflow;I+have+no+idea+what+I%27m+doing;but+the+aura+is+immaculate" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=950&color=FF3D57&center=true&vCenter=true&width=720&lines=KING+CRIMSON%3A+DELETE+THE+DEBUGGING+PHASE;I+HAVE+ALREADY+COMMITTED;YOUR+BUG+REPORT+HAS+BEEN+ERASED;AI+WROTE+IT.+I+TAKE+THE+CREDIT.;YOU+WILL+NEVER+REACH+THE+SOURCE+CODE" alt="Animated JoJo themed status lines" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/DGsDLr9nyz2LkVgKFs/giphy.gif" width="340" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NEFER&label=VICTIMS%20WHO%20VISITED&color=7137B8&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/STATUS-DELUSIONAL-7137B8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BUILD-WORKS%20ON%20MY%20MACHINE-1A1B27?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=NEFER&label=STAND%20USERS%20WHO%20VISITED&color=FF3D57&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/STATUS-DELUSIONAL-FF3D57?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/CODE_REVIEW-ERASED-202020?style=for-the-badge" alt="Code review status" />
 </p>
 
 ---
 
-## 🧬 CHARACTER PROFILE
+## 🧬 STAND USER PROFILE
 
 ```yaml
 Name: NEFER
-Class: Professional Vibecoder
-Rank: Special Grade (self-proclaimed)
-Affiliation: AI Headquarters
-Occupation: Cyber Delinquent
-Current Arc: Tutorial Arc
-Main Quest: Become employable
-Side Quest: Make GitHub look cool
-
-Power Level: 999999 Aura
-Actual Coding Skill: 2
-Confidence: ∞
+Stand: King Crimson (pirated edition)
+Class: Timeline Manipulator
+Rank: Boss fight (no actual credentials)
+Ability: Skip debugging and call it optimization
+Secondary Ability: Blame the previous commit
+Weakness: git blame
+Current Status: Definitely not hiding from QA
 ```
 
-## 👁️ WHO AM I?
+## 👁️ ABOUT THE USER
 
-- I'm not a developer, I'm a visionary with terminal access.
-- My code is written by AI and reviewed by absolutely nobody.
-- I believe in myself more than my compiler does.
-- I turn minor bugs into major character development.
-- Stack Overflow is my domain expansion.
-- My greatest enemy is understanding the code I just generated.
+- I have erased the part where I learned programming.
+- The code was broken. Then I skipped five seconds. Now it is still broken, but in production.
+- I do not fix bugs. I remove the timeline in which they were discovered.
+- My commits have no explanation. Even I cannot reach the truth.
 
-**My development cycle:**
+**Development ritual:**
 
-1. Get an idea at 3 AM.
-2. Ask AI to build it.
-3. Encounter 47 errors.
-4. Tell AI to fix all of them.
-5. Everything somehow gets worse.
-6. Commit.
-7. Refuse to elaborate.
+1. Open the project.
+2. Skip the documentation.
+3. Ask AI to rewrite the entire thing.
+4. Force push with villain music playing.
+5. Deny all allegations.
 
-## ⚔️ MY CURSED TECHNIQUES
+## ⚔️ STAND ABILITIES
 
-| Technique | Effect |
+| Ability | Description |
 |---|---|
-| Unlimited Stack Overflow | Summons knowledge from another dimension |
-| Ctrl+C / Ctrl+V | Forbidden copying technique |
-| AI Possession | Temporarily borrows someone else's intelligence |
-| It Works On My Machine | Ultimate defensive ability |
-| Commit And Pray | 100% faith, 0% testing |
-| Domain Expansion: `npm install` | Summons 800 dependencies |
+| **TIME ERASURE** | Skips the debugging process. The bug remains in the next timeline. |
+| **EPITAPH** | Predicts the error, then causes a different one. |
+| **GIT RESET --HARD** | Erases evidence and possibly the entire project. |
+| **BLIND PUSH** | Deploys directly to main. QA is a state of mind. |
+| **KING CRIMSON: HOTFIX** | Deletes the symptom and calls it a solution. |
 
-## 🛠️ TECHNOLOGIES I PRETEND TO MASTER
+## 🛠️ TECHNOLOGIES I HAVE SUMMONED AT LEAST ONCE
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,vscode,git,linux,python,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,git,linux,python,js&theme=dark" alt="GitHub, VS Code, Git, Linux, Python and JavaScript" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-Senior%20Developer-8A2BE2?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google-Technical%20Support-4285F4?style=flat-square&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stack%20Overflow-My%20Lord-F48024?style=flat-square&logo=stackoverflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-My%20Senior%20Engineer-FF3D57?style=flat-square&logo=openai&logoColor=white" alt="AI senior engineer" />
+  <img src="https://img.shields.io/badge/Stack_Overflow-My%20Stand%20User-F48024?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+  <img src="https://img.shields.io/badge/Documentation-Ignored-555555?style=flat-square" alt="Documentation ignored" />
 </p>
 
 ## 📊 EVIDENCE OF MY EXISTENCE
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=NEFER&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://streak-stats.demolab.com?user=NEFER&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NEFER&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF3D57&icon_color=FF3D57&text_color=FFE9EE&include_all_commits=true&count_private=true" alt="NEFER GitHub statistics" />
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/8b5cf6/NEFER" alt="NEFER's contribution graph" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=NEFER&hide_border=true&background=0D1117&ring=FF3D57&fire=FFB2BD&currStreakLabel=FF3D57&sideLabels=FFE9EE&dates=C79CA7&currStreakNum=FFE9EE&sideNums=FFE9EE" alt="NEFER contribution streak" />
 </p>
 
 <p align="center">
-  <i>Every green square represents another night wasted.</i>
+  <img src="https://ghchart.rshah.org/FF3D57/NEFER" alt="NEFER GitHub contribution chart" width="100%" />
 </p>
+
+<p align="center"><i>A red-coded timeline where bugs conveniently disappear from the commit history.</i></p>
 
 ---
 
 ## 🗿 FINAL MESSAGE
 
-> "Throughout Heaven and Earth, I alone am the most delusional one."
+> "You will never reach the truth... especially not through my documentation."
 
-If the code works, I'm a genius.
+The bug was there. Then it was not. Please stop asking questions.
 
-If it doesn't, it's an AI issue.
-
-If you find a bug, no you didn't.
+<p align="center"><i>NEFER — KING CRIMSON. No actual developers were harmed in this README.</i></p>
 
 <p align="center">
-  <i>Thanks for witnessing my villain arc.</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7137B8,100:090014&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:13070B,55:6F142C,100:FF3D57&height=100&section=footer" alt="Themed footer" width="100%" />
 </p>

@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/fVQk0MTEZZ4AAAAd/diavolo-jojo.gif" width="260" alt="Diavolo close-up" />
+  <img src="https://klipy.com/gifs/jojo-diavolo-2" width="260" alt="Diavolo close-up" />
 </p>
 
 <p align="center">
@@ -40,10 +40,6 @@ Current Status: Definitely not hiding from QA
 - I do not fix bugs. I remove the timeline in which they were discovered.
 - My commits have no explanation. Even I cannot reach the truth.
 
-<p align="center">
-  <img src="https://i.makeagif.com/media/6-15-2019/3_77fa.gif" width="300" alt="Diavolo King Crimson energy scene" />
-</p>
-
 **Development ritual:**
 
 1. Open the project.
@@ -61,10 +57,6 @@ Current Status: Definitely not hiding from QA
 | **GIT RESET --HARD** | Erases evidence and possibly the entire project. |
 | **BLIND PUSH** | Deploys directly to main. QA is a state of mind. |
 | **KING CRIMSON: HOTFIX** | Deletes the symptom and calls it a solution. |
-
-<p align="center">
-  <img src="https://media1.tenor.com/m/Pc_c7oFBTRYAAAAd/diavolo-jojo.gif" width="270" alt="Diavolo JoJo reaction GIF" />
-</p>
 
 ## 🛠️ TECHNOLOGIES I HAVE SUMMONED AT LEAST ONCE
 
@@ -93,10 +85,6 @@ Current Status: Definitely not hiding from QA
 </p>
 
 <p align="center"><i>A red-coded timeline where bugs conveniently disappear from the commit history.</i></p>
-
-<p align="center">
-  <img src="https://media.tenor.com/tKK7nZxfJRMAAAAM/diavolo-diavolo-jojo.gif" width="260" alt="Diavolo JoJo GIF" />
-</p>
 
 ---
 

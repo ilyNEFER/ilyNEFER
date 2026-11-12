@@ -73,7 +73,7 @@ Current Status: Definitely not hiding from QA
 ## 📊 EVIDENCE OF MY EXISTENCE
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=NEFER&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF3D57&icon_color=FF3D57&text_color=FFE9EE&include_all_commits=true" alt="NEFER GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=NEFER&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF3D57&icon_color=FF3D57&text_color=FFE9EE&include_all_commits=true" alt="NEFER" />
 </p>
 
 <p align="center">
